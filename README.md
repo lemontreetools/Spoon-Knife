@@ -4,7 +4,7 @@ Head1
 Head2
 ------------
 
-  code text
+    code text with 4 spaces intended
 
 ### Well hello there!
 
