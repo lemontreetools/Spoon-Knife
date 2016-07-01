@@ -5,6 +5,9 @@ Head2
 ------------
 
     code text with 4 spaces intended
+    
+Styling explained on [mastering-markdown subpage](https://guides.github.com/features/mastering-markdown/)    
+
 
 ### Well hello there!
 
